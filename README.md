@@ -38,11 +38,11 @@
 
 ### [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 ``` sh
-git clone https://github.com/JannoTjarks/catppuccin-zsh.git
+git clone https://github.com/JannoTjarks/zsh.git
 mkdir ~/.oh-my-zsh/themes/catppuccin-flavors
 
-ln catppuccin-zsh/catppuccin.zsh-theme ~/.oh-my-zsh/themes/
-ln catppuccin-zsh/catppuccin-flavors/* ~/.oh-my-zsh/themes/catppuccin-flavors
+ln zsh/catppuccin.zsh-theme ~/.oh-my-zsh/themes/
+ln zsh/catppuccin-flavors/* ~/.oh-my-zsh/themes/catppuccin-flavors
 ```
 
 ## 💝 Thanks to
